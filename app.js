@@ -58,7 +58,7 @@ app.post("/failure",function(req,res){
 });
 app.listen(3000,function(){
   console.log("Server started");
-})
+});
 // const jsonData=JSON.stringify(data);
 // const url="https://us21.api.mailchimp.com/3.0/lists/532786adb6";
 // const options={
